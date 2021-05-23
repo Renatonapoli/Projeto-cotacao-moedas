@@ -31,7 +31,7 @@ $ npm run server
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
+- [Vue.js](https://vuejs.org/)
 - [VsCode](https://code.visualstudio.com/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -44,5 +44,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
 <h4 align="center"> 
-	🚧  Vue.js 🚀 Em construção...  🚧
+	🚧  Vue.js 🚀 Finalizado...  🚧
 </h4>
