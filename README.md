@@ -35,7 +35,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [VsCode](https://code.visualstudio.com/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
   
 <h1 align="center">
     <a href="https://vuejs.org/">🔗 Vue.js </a>
